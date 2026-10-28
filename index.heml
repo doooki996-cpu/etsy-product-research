@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Personal Product Research Library</title>
+</head>
+<body>
+  <h1>Personal Product Research Library</h1>
+  <p>
+    A personal AI-assisted tool for researching publicly
+    available Etsy listings and organizing product references
+    for design inspiration.
+  </p>
+  <p>
+    The application is intended for personal use only.
+    Selected references are organized locally.
+  </p>
+  <p>
+    This is an independent project and is not affiliated with Etsy.
+  </p>
+</body>
+</html>
